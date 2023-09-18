@@ -25,4 +25,4 @@ brew install gabrielfn-vcs/taps/maven-noopenjdk
 ```
 
 ### Update Formula to latest `maven` version
-When a new version of `maven` is released in Homebrew, this Formula can be updated with the script in `bin/update-formula-maven-noopenjdk`.
+When a new version of `maven` is released in Homebrew, this Formula can be updated with the script in `bin/update-formula-maven-noopenjdk.sh`.
